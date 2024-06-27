@@ -1,0 +1,22 @@
+{
+    "6213067866": {
+        "time": 300,
+        "concurrent": 20,
+        "vip": true,
+        "expire": "2025-05-27T08:37:30.900650",
+        "banned": false,
+        "bypass_blacklist": true,
+        "cooldown": 0,
+        "last_attack": null
+    },
+    "5145402317": {
+        "time": 300,
+        "concurrent": 5,
+        "vip": true,
+        "expire": "2024-07-27T05:56:20.684690",
+        "banned": false,
+        "bypass_blacklist": false,
+        "cooldown": 0,
+        "last_attack": "2024-05-28T08:02:49.589701"
+    }
+}

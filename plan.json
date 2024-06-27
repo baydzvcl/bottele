@@ -1,0 +1,82 @@
+{
+    "plans": [
+        {
+            "id": 0,
+            "name": "Basic Plan",
+            "details": {
+                "Time": "30s",
+                "Concurrent": "1",
+                "VIP": "✅",
+                "Expires": 30,
+                "Bypass Blacklist": "🚫",
+                "Cooldown": "30s",
+                "Price": 10
+            }
+        },
+        {
+            "id": 1,
+            "name": "Gold Plan",
+            "details": {
+                "Time": "60s",
+                "Concurrent": "2",
+                "VIP": "✅",
+                "Expires": 60,
+                "Bypass Blacklist": "🚫",
+                "Cooldown": "45s",
+                "Price": 25
+            }
+        },
+        {
+            "id": 2,
+            "name": "Diamond Plan",
+            "details": {
+                "Time": "120s",
+                "Concurrent": "3",
+                "VIP": "✅",
+                "Expires": 90,
+                "Bypass Blacklist": "🚫",
+                "Cooldown": "60s",
+                "Price": 50
+            }
+        },
+        {
+            "id": 3,
+            "name": "Platinum Plan",
+            "details": {
+                "Time": "180s",
+                "Concurrent": "5",
+                "VIP": "✅",
+                "Expires": 120,
+                "Bypass Blacklist": "🚫",
+                "Cooldown": "75s",
+                "Price": 100
+            }
+        },
+        {
+            "id": 4,
+            "name": "Legend Plan",
+            "details": {
+                "Time": "300s",
+                "Concurrent": "10",
+                "VIP": "✅",
+                "Expires": 180,
+                "Bypass Blacklist": "🚫",
+                "Cooldown": "90s",
+                "Price": 175
+            }
+        },
+        {
+            "id": 5,
+            "name": "Master Plan",
+            "details": {
+                "Time": "600s",
+                "Concurrent": "20",
+                "VIP": "✅",
+                "Expires": 365,
+                "Bypass Blacklist": "🚫",
+                "Cooldown": "120s",
+                "Price": 250
+            }
+        }
+    ]
+}
